@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Découvrir Oran</title>
+    <link rel="stylesheet" href="script.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Bienvenue à Oran !</h1>
+            <p class="slogan">Une ville aux mille couleurs, entre histoire et modernité.</p>
+        </div>
+    </header>
+
+    <section class="main-content">
+        <div class="container">
+            <h2>Pourquoi découvrir Oran ?</h2>
+            <p>Oran, une ville vibrante et pleine de vie, regorge de sites fascinants à découvrir. Que vous soyez passionné d'histoire, de culture, ou simplement à la recherche d'une belle escapade au bord de la mer, Oran vous offre tout cela et bien plus encore.</p>
+        </div>
+    </section>
+
+    <section class="highlights">
+        <div class="container">
+            <h2>Quelques incontournables à visiter :</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>La Forteresse de Santa Cruz</h3>
+                    <p>Un panorama à couper le souffle sur la mer Méditerranée et toute la ville d'Oran.</p>
+                </div>
+                <div class="card">
+                    <h3>Le Front de Mer</h3>
+                    <p>Une promenade idyllique au bord de l'eau, avec des cafés et des plages à perte de vue.</p>
+                </div>
+                <div class="card">
+                    <h3>La Place du 1er Novembre</h3>
+                    <p>Le cœur historique d'Oran, où se mêlent culture et architecture coloniale.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>Prêt à explorer Oran ? Venez vivre l'aventure !</p>
+            <p>&copy; 2025 Oran Aventure | Tous droits réservés</p>
+        </div>
+    </footer>
+</body>
+</html>
